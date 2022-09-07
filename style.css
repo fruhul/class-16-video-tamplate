@@ -1,0 +1,68 @@
+.header {
+    background-color: #3498db;
+}
+.header img{
+    width: 111px;
+}
+.header ul{
+    margin-bottom: 0;
+}
+.header ul li{
+    display: inline-block;
+    border-right: 1px solid #fff;
+}
+.header ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 22px;
+    display: inline-block;
+    padding: 0 10px;
+    line-height: 69px;
+}
+/* banner */
+.banner{
+    background:url(./image/hourglass-time-banner-background-format-wood-54533019.jpg)no-repeat center;
+    background-size: cover;
+    padding: 200px 0;
+}
+.banner h1 {
+    background-color: #3498db;
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 5px;
+    margin-bottom: 0;
+}
+.banner h2 {
+    background-color: #3498db;
+    padding: 4px 12px;
+    border-radius: 5px;
+    margin-bottom: 0;
+    width: 373px;
+    margin: 10px auto;
+}
+/* About */
+.About{
+    background-color: #ecf0f1;
+
+}
+/* service section */
+.service span i {
+    font-size: 34px;
+    color: #fff;
+    background-color: #3498db;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 34px 0;
+}
+/* notice */
+.notice img{
+    max-width: 100%;
+}
+/* footer */
+.footer{
+    background-color: #3498db;
+}
+.footer p{
+    margin-bottom: 0;
+    object-fit: cover;
+}
